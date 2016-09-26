@@ -1,0 +1,5 @@
+# set git default editor to notepad++ (notepad++ on PATH)
+git config --global core.editor notepad++
+
+# set git default editor to notepad++ (notepad++ NOT on PATH)
+git config --global core.editor "C:\Program Files (x86)\Notepad++\notepad++.exe"

@@ -1,0 +1,5 @@
+# Increase postBuffer to 100M
+git config http.postBuffer 104857600
+
+# Increase postBuffer to 500M
+git config http.postBuffer 524288000
